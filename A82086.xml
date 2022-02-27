@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration from the Children of Light (who are by the world scornfully called Quakers) against several false reports, scandals and lyes, in several news books and pamphlets, put forth by Hen. Walker, R. Wood, and George Horton, whose lyes, and slanders shall not pass for truth; but shall be judged, and cast out by Michael and his angels into the world, which is their habitation amongst the children of darkness. Also a warning from the Lord to all ballad-makers, and image-makers, with them that print and sell them, who are found without the fear of God, contrary to the command of God, who saith, you shall not make an image of male nor female: and to the doctrine of the Apostles, who were to avoid prophane and vain fables. With a lamentation over all them that live in pride and gluttony, swearing, and all manner of uncleanness; and profess God, and profess Christ, and themselves Christians; but are seen to be those, whose God is their belly, whose end will be destruction.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82086</idno>
+            <idno type="STC">Wing D588</idno>
+            <idno type="STC">Thomason E838_11</idno>
+            <idno type="STC">ESTC R202133</idno>
+            <idno type="EEBO-CITATION">99862531</idno>
+            <idno type="PROQUEST">99862531</idno>
+            <idno type="VID">114694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114694)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 127:E838[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration from the Children of Light (who are by the world scornfully called Quakers) against several false reports, scandals and lyes, in several news books and pamphlets, put forth by Hen. Walker, R. Wood, and George Horton, whose lyes, and slanders shall not pass for truth; but shall be judged, and cast out by Michael and his angels into the world, which is their habitation amongst the children of darkness. Also a warning from the Lord to all ballad-makers, and image-makers, with them that print and sell them, who are found without the fear of God, contrary to the command of God, who saith, you shall not make an image of male nor female: and to the doctrine of the Apostles, who were to avoid prophane and vain fables. With a lamentation over all them that live in pride and gluttony, swearing, and all manner of uncleanness; and profess God, and profess Christ, and themselves Christians; but are seen to be those, whose God is their belly, whose end will be destruction.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert at the Black-Spread-Eagle at the west end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Walker, Henry, --  Ironmonger.</term>
+               <term>Wood, R., fl. 1655.</term>
+               <term>Horton, George, fl. 1647-1660.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114694:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM The Children of Light (who are by the world ſcornfully called <hi>Quakers</hi>) againſt ſeveral falſe re<g ref="char:EOLhyphen"/>ports, ſcandals and lyes, in ſeveral news Books and Pamphlets, put forth by <hi>Hen. Walker, R. Wood,</hi> and <hi>George Horton,</hi> whoſe lyes, and ſlanders ſhall not paſs for truth; but ſhall be judged, and caſt out by <hi>Michael</hi> and his Angels into the world, which is their habitation amongſt the Chil<g ref="char:EOLhyphen"/>dren of darkneſs.</p>
+            <p>ALSO A Warning from the Lord to all Ballad-makers, and Image-makers, with them that print and ſell them, who are found without the fear of God, contrary to the command of God, who ſaith, <hi>You ſhall not make an Image of Male nor Female:</hi> and to the Doctrine of the Apoſtles, who were to avoid prophane and vain Fables.</p>
+            <p>WITH A Lamentation over all them that live in pride and gluttony, ſwearing, and all manner of uncleanneſs; and pro<g ref="char:EOLhyphen"/>feſs God, and profeſs Chriſt, and themſelves Chri<g ref="char:EOLhyphen"/>ſtians; but are ſeen to be thoſe, <hi>whoſe God is their belly, whoſe end will be deſtruction.</hi>
+            </p>
+            <p>Thus being turned aſide from that which was made manifeſt from God, God alſo hath given you to believe a lye, <hi>who are filled with all unrighteouſneſs, envy, murder, hatred, and all maner of uncleaneſs,</hi> as you may read your conditions at large in <hi>Romans</hi> 1. and 24. <hi>ver.</hi> to the latter end, 2 <hi>Theſ.</hi> 2.10, 11, 12. ver. <hi>whoſe dam<g ref="char:EOLhyphen"/>nation is juſt upon all them that take pleaſure in unrighteouſneſs.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Giles Calvert</hi> at the <hi>Black-Spread-Eagle</hi> at the Weſt end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:114694:2"/>
+            <pb n="1" facs="tcp:114694:2"/>
+            <head>A Declaration from the Children of the light (who are by the world ſcornfully called Quakers) againſt ſe<g ref="char:EOLhyphen"/>veral falſe reports, ſcandals and lyes, in ſeveral News-Books and Pamphlets, &amp;c.</head>
+            <p>IN that which is called the <hi>Perfect Proceedings,</hi> a book of news, which is printed for <hi>Robert Ibbiiſon</hi> dwelling in <hi>Smith<g ref="char:EOLhyphen"/>field,</hi> which ſays in his book, which comes from <hi>Wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ker,</hi> one who profeſſeth himſelf to be a Teacher, but it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of lyes: <hi>That there is much horrible wickedneſs committed by ſome of the</hi> Qua<g ref="char:EOLhyphen"/>kers <hi>about</hi> London: <hi>as curſing, ranting, and filthy uncleanneſs;</hi> where<g ref="char:EOLhyphen"/>upon ſome went to the ſaid <hi>Walk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> to know why he publ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhed ſuch lyes to the Nation, for all ſuch things we do deny. And then the ſaid <hi>Walker</hi> to cover his filthyneſs, inſtanced a Ranter or two, which are contrary to the <hi>Quakers,</hi> and all their filthy p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>actices denyed by thoſe called <hi>Quakers.</hi> And this is it <hi>Walker</hi> would cover his ſlander w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, which he puts forth againſt them called <hi>Quakers</hi> to the Nati<g ref="char:EOLhyphen"/>on; but them that are not given over to believe lyes ſees his folly: And Chriſt ſaith, <hi>They ſhall ſpeak all manner of evil upon you falſly for my nam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſake,</hi> which we find fulfilled, the filthy actions which are done amongſt the unclean ones, doth he fetch up, and put in his Book againſt them called <hi>Quakers,</hi> to make them odious; and no unclean filthy thing is juſtified amongſt them cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <hi>Quakers,</hi> which thou <hi>Walker</hi> ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, is according to thy work and your works ſha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l ye have your reward; and the Scr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pture is acknowledged to be a Declaration of the Word, as you may read <hi>Luke</hi> the firſt: And whereas it was ſaid to thee <hi>Walker</hi> who doth ſo ſlander: <hi>That the Plagues written in the Book thou might own to be thy due:</hi> in that generation thou art found to which they were ſpoken to: And whereas thou accuſeſt a woman for following of the Ranter that came often to <hi>White-hall,</hi> that is another of thy ſlanders; for ſhe te<g ref="char:EOLhyphen"/>ſtifies aga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt it and thee: And many other lys and ſlanders in thy book which is not worth the mentioning, and all unſavory expreſſi<g ref="char:EOLhyphen"/>ons we do deny. And thou bringeſt one <hi>Rober<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> &amp; one a <hi>Glaſier,</hi> which thy conſcience tells thee, are contrary to them, thou calls <hi>Quakers:</hi> and there <hi>Walker</hi> thy ſeed is known, and what ſeeds-man thou art, comprehended with the children of light, who ſeeth that they which are given over to believe lyes, may give care to thy
+<pb n="2" facs="tcp:114694:3"/>ſlaunders; but the honeſt-hearted and godly-minded, will judg the appearance of thy ſeed.</p>
+            <closer>
+               <signed>From them who declares peace and love, to all them that thirſt after righteouſneſs, <hi>Iohn Bollon, Simon Dring, Will. Rayman, Rich. Davis.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <p>And again, we find many ſlanders and lys in that which is called <hi>The Weekly Poſt,</hi> printed by <hi>R. Wood,</hi> and he ſaith, <hi>witneſs the burning of the Bible by ſundry Quakers;</hi> Now <hi>Wood</hi> we command thee to mention thoſe ſundry <hi>Quakers</hi> that burned the Bible, and bring thy works to the light; and them that deny the true teſtimo<g ref="char:EOLhyphen"/>ny of it, mention them in particular: and the Ordinances of Chriſt and the Miniſters of Jeſus Chriſt we own, and free-will is denyed; and mention what Miniſters thoſe are in particular that they do de<g ref="char:EOLhyphen"/>ny, elſe let thy mouth be ſtopped for ever; for upon record, thou art ſeen with the light which comprehends the world, and thy end and race, and thy folly is manifeſted; who art one of them that Prints falſe reports <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>And another ſlanderous paper Printed for <hi>G. Horton,</hi> called, <hi>The Quakers Dream,</hi> and on the outſide of it he hath ſet many Images of Males and Females, which the Scripture forbids: ſo under the Judgment of the Scripture thou art brought. And thou brings one <hi>Gilpin</hi> for thy cloak for thy ſlanders, a fit object in whom the De<g ref="char:EOLhyphen"/>vils trembled, who turned from being a <hi>Quaker</hi> to be a drunkard, againſt whom a Warrant was given out for his drunkenneſs. And then thou ſpeaks of ſeveral converted <hi>Quakers</hi> in <hi>Leiceſterſhire,</hi> that the Devil appeared to; We demand of thee their names, and do not with thy lyes make the truth odious; for we know no lye is of the truth: and them that are not of the truth, may be ſubject to be<g ref="char:EOLhyphen"/>lieve thy lys, and filthy Dreams that are in thy ſlanderous Paper. Was <hi>Iohn Gilpin</hi> convinced of his drunkenneſs? and is he now tur<g ref="char:EOLhyphen"/>ned to it again? That which did convince him, will convince thee, and you all, and be our witneſs at the laſt; and thy dancings and feaſtings which thou ſpeakeſt of, is denyed with them who are ſcorn<g ref="char:EOLhyphen"/>fully called <hi>Quakers</hi> amongſt you, who are become your ſong, your by-word and reproach; but our ſtrength is the Lord God, and our Redeemer the Holy One of <hi>Iſrael:</hi> So take warning all ye lyars, and ſlanderers, leaſt the Lord ſweep you away with all the re<g ref="char:EOLhyphen"/>fuge of lyes; for the Lord is cleanſing the Land of evil doers.</p>
+            <p>And <hi>R. Wood</hi> ſhewed <hi>Simon Dring</hi> and <hi>Will. Wilſon,</hi> a book called <hi>A Mirror, or a Looking-Glaſs both for Saints and Sinners,</hi> ſet forth by <hi>S. Clarke</hi> Paſtor in <hi>Bennet-Finch London;</hi> the Saints have looked in<g ref="char:EOLhyphen"/>to it, in which book is lys, out of which book, <hi>R. Wood</hi> ſaid <hi>G. Horton</hi> had his ground, to publiſh forth that which we know to be lys, and print them, which he calls <hi>His Quakers dream.</hi> And the ſaid <hi>R. Wood</hi> ſaid to <hi>Simon Dring</hi> and <hi>William Wilſon, that the ſaid</hi> George Horton <hi>was a fudling abroad,</hi> and how the drunkards makes their Songs.</p>
+            <pb n="3" facs="tcp:114694:3"/>
+            <p>Thou <hi>George Horton,</hi> who haſt publiſhed many lies, ſcandalls and ſlanders in thy papers which thou calls the <hi>Quakers</hi> terrible viſion. And many unſavoury ſpeeches (which be not worth mentioning) is found in it, which is come out of the generation of lyars, and all thy unſavoury expreſſions, in the paper, and thy lyes, and thy ſlanders are denyed. And they that make lyes their refuge, may be builded upon thee, and may have a refuge under thee, who art one of <hi>the Devils ſeeds-men (who ſowes his lies abroad) who is of them,</hi> And <hi>Hor<g ref="char:EOLhyphen"/>ton</hi> we demaund of thee what they bee, that hold community of women, and other folks wives, and what women they be, and what mens wives they are, mention the names of them, and where they live, and let the Law take hold upon them, elſe upon record thou ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> left <hi>Horton,</hi> thou belies <hi>Iſaiah,</hi> who ſaith he did not go naked, when the Scripture ſaith he did, and here thou art not onely a lyar upon us, but upon the Scripture, as you may read, <hi>Iſaiah</hi> 20. and read thy 5 page; and a great deal of ſtuff, thou haſt about <hi>Gilpin,</hi> one of thy own generation, which is under the power of Satan. And thou <hi>Horton</hi> ſays <hi>Paul was zealous in his way, perſecuting the Saints,</hi> Thy fruits, appears, to be in <hi>Sauls</hi> ſteps, who art to the truth an enemy. And mention, thoſe <hi>Quakers</hi> that hold forth free-will. Mention their names, (who manifeſts thy ſelf to be in works of darkneſs, to ſlander in the dark: for the lye, and the ſlander, in thy paper, we deny, and thy unſavoury expreſſions. And again thou art babbling, and hath ſtuffed in thy paper, of one thou calls Mr. <hi>Fox</hi> taking a man by the ſinger out of a whirl-pool; And this is like unto the reſt of thy filthy ſtuff, and again, thou art tormented, becauſe ſome throw off their rib<g ref="char:EOLhyphen"/>bons: and here again, thou doeſt manifeſt thy ſelf, they that are of the world they may own thee, but the children of the light ſees, that the luſts of thy Father thou doeſt, and the luſts of thy Father thou would have, and cannot endure his Kingdom ſhould be over-grown, &amp; ſuch <hi>who be in the nature of Swine,</hi> as thou art, <hi>&amp; Dogs do bark at the children of light, and Swine doth cry to the great admiration of the people.</hi> And thou ſcoffes at the light w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>thin, and ſets above it the Images of Male and Female. And again <hi>Horton</hi> we command thee to make mention, of thoſe <hi>Quakers,</hi> that makes the word of God but as a ſha<g ref="char:EOLhyphen"/>dow; oh! was here ever the like in any age ſeen, who profeſſe Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, live <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n ſo much Impudency, breathing of lyes and ſlanders, what an unſavoury ſmell is this, that comes from thoſe, that calls themſelves Chriſtians, and Churches, but we ſee thy fruit, in thy paper, and thy ſmell is gone out into the Nation, and recorded thou art, and anſwered ſhall be to that in thy conſcience, in the day of thy condemnation. And this Miſt, which thou caſt forth, doeth no hurt, among the children of light, nor among them who feare God, thy lying ſpirit the Lord will rebuke and all the reſt, of thy other unſa<g ref="char:EOLhyphen"/>voury ſpeeches, whom to thy ſelf ſhall return, and the author of them, but now the time is come that they ſay report, and we will re<g ref="char:EOLhyphen"/>port, and all manner of evill is caſt upon the children of light, ſo ye
+<pb n="4" facs="tcp:114694:4"/>are them that fulfill Chriſts words, but this we ſay, The Lord forgive you.</p>
+            <p>Ye Ballet-makers, and ye Ballet-ſellers, Stationers, and Printers of them; and buyers of them beware, for the Lord God of glory is ariſing, who ſaith, <hi>Thou ſhalt not make any Image of Male or Female,</hi> which you do amongſt you, and are ſound upon your ballets, and ſo out of Gods counſell, are amongſt the heathen making Images: and your vain jeſting books, which ſtirs up the heathen, which knowes not God, and ſuch be out of his command, which makes Image of Male and Female, and other creatures contrary and out of Gods com<g ref="char:EOLhyphen"/>mand, and becauſe the Images and Ballads are cried againſt, it makes the Heathen to rage, and imagine vain things againſt them, who doth them crie againſt, ſhewing that theſe have their harts, and are their gods, yea, but ſaith them that be in the fleſh, in the luſt, and in the pride, <hi>We ſhall looſe our gain, and our calling, if we forſake our jeſting-books, our ballads, and our books of rimes,</hi> which upon them is the Image of Males and Females, and that is to ſet them out: though God doth forbid them, it brings us in gain <hi>Iupiter</hi>-l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke which all his Tradeſmen cries, <hi>Theſe are peſtilent fellowes with cries againſt theſe things, which brings us in gain, we can profeſſe Chriſt, and hold up theſe things too,</hi> ſaith <hi>Iupiter</hi> who be in <hi>Iupiters</hi> nature with his Images: but to you all profeſſors of Chriſt Jeſus, which be in the evill with your jeſting-books, and ballads, and books of verſe and rime and vain ſongs, and your ballads with your Images of Male and Female, upon them to the light in your conſciences, I ſpeak: with that mind which you read your jeſting-books and ſing your ballads, you profeſſe the Scriptures, and lives out of the obedience of them, ſo you are them that cry Lord, Lord, which enter not into the Kingdom of God, who doth not the will of God, for who doth his will knoweth his doctrine, and from all that which ſtirs up wantonneſſe, and pleaſures, and fa<g ref="char:EOLhyphen"/>bles-followers are turned away from, which enters into the kingdome of God: ſo your jeſts and ſongs ſhall be turned into howl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng, as you may read <hi>Amos,</hi> &amp; you that make ſongs &amp; ballads upon wicked people, &amp; ſo rejoice in iniquity which is contrary to Scripture, as you may read, oh how are the world in many places, &amp; ſtreets, and walls painted with b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llads and fables, and yet now profeſſe your ſelves to be Chriſtians, and of the Church of Chriſt, oh ſtop your mouths, and cover your lips, where did any of Chriſts flock ſo, but this is the froth of the ſea, and the foame of it, and here you are proved to be ſuch who ſaid; <hi>they were Iews, but were not,</hi> therefore I do warn all young and old people from the Lord God, give over your reading ballads your ſong-books, and rime-books, which are all for the fire, with them that made them, and read the Scr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptures with was from the life of God declared, which declared aga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt all vain fables and lightneſſe, and wantonneſſe, and pleaſures, leſt that you be given over to believe lies, and ſo remain under the power of Sa<g ref="char:EOLhyphen"/>tan,
+<pb n="5" facs="tcp:114694:4"/>and periſh, and not regard that light which ſhews you the works of Satan, and the works of God, where you might receive power from the Lord Jeſus, and ſo be turned from the power of Sa<g ref="char:EOLhyphen"/>tan unto God, and ſo come to witneſs the entrance into the King<g ref="char:EOLhyphen"/>dom of glory which hath no end; but you who this light do hate, it is your condemnation, ſo this is your Teacher, and this is your condemnation, that do it hate: and you that this do not regard, your blood be upon your own head from him who ſaies, <hi>There is no peace to the wicked.</hi>
+            </p>
+            <p>A lamentation and grief, and ſorrow to ſee ſo much profeſſion of Chriſt and God, and of the holy Prophets of God, and o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the holy Apoſtles words amongſt people that are ſo proud, that cannot tell how to go, nor what to put on, nor what to eat, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch ſhews your ſelves to be of that Kingdom of the world, profeſſing him in words, and with your lips profeſs honor to him: but your hearts are far off, and your practiſe do manifeſt it and fruits; for by the fruits the tree is known, and a lamentation and ſorrow to ſee the fruits of the Doctrine of the teaching of the world; for they in their converſations, and their communications which is heard now abroad among ſuch as profeſs God, and Chriſt, and Prophets, and Apoſtles words, when they in their filthy communications, one crys <hi>Oh Lord!</hi> another crys <hi>Oh Chriſt!</hi> with a vain mind taking Gods name in vain, making mention of Chriſts name and not depart from iniquity: and others crying and ſwearing, <hi>by God they will do ſuch a thing,</hi> or ſwearing, <hi>by God they will not do ſuch a thing:</hi> and others ſwearing <hi>by their Faith ſuch a thing is ſo,</hi> and <hi>by their Faith ſuch a thing is not ſo</hi> and ſwearing when they are ſelling their Merchandiſe, <hi>by their troth they will haue ſo much,</hi> and <hi>by their troth they cannot take ſo much:</hi> So are quite out of Chriſts Doctrine, who ſaith, <hi>In all your communications let your yea be yea, and your nay, nay: for whatſoever is more is evil:</hi> and others ſwearing <hi>by Maſſe</hi> and <hi>Mary,</hi> and thus the Land mourns becauſe of oaths; and this ill ſavory ſmell aſcends which ſtinks in the Noſtrills of God, which is found out of Chriſts Doctrine, and out of the Apoſtles doctrine, who ſaith, <hi>Above all things my brethren ſwear not at all, leaſt you fall into the condemnation of the Devil;</hi> and ye that ſwear, are out of the Doctrine of Chriſt and the Apoſtles, and are fallen into the condemnation of the the Devil, as you may read, <hi>Math.</hi> 5. Again others when they are croſſed fall out into curſed ſpeeches, being the curſed children, and ſpeak forth often, and bid <hi>a pox on ſuch a thing that croſſes them,</hi> and cry <hi>Gods wounds.</hi> Oh lamentation! miſerable profeſſion who take the Prophets Words, and Chriſts und his Apoſtles for a cloak! God will not be mocked with your hypocriſie, His plagues you can<g ref="char:EOLhyphen"/>not eſcape who chuſeth the evil, and refuſeth the good. The day of the Lord is coming upon His adverſaries, and many will appear in that day and ſay, <hi>Lord, Lord, but to them he will ſay, depart from me
+<pb n="6" facs="tcp:114694:5"/>ye workers of iniquity, I know you not;</hi> are you workers of iniquity? depart then; Have ye your old garments on? and are you wicked and ſlothful? <hi>into utter darkneſs</hi> you are to be caſt, <hi>where there ſhall be weeping and wailing, and gnaſhing of teeth.</hi> Do you live ſumptu<g ref="char:EOLhyphen"/>ouſly and in pleaſures upon the earth? and are you not rich glut<g ref="char:EOLhyphen"/>tons which have pleaſure in your life time? Did not he go into torment who lived ſo? is not he an example to you all? and will you not be warned in your life time, but ſtill go on in your gluttonous way of pleaſures? Are you not coveting after mony which is the root of all evil, and ſo pierce your ſelves through with many noyſome and hurtful luſts? Are not you joyn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng houſe to houſe, and field to field, until there be no more place left for the poor? Remember the end of ſuch. Do you not live wantonly upon earth, as in pleaſures, and kills the juſt, and ſo are dead whilſt you live, which the Scripture mentions. Are you not drink<g ref="char:EOLhyphen"/>ing w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne and beer, and ſtrong-drink until the wine inflame you, and ſo call for the Pipe and Harp, which the Prophets of the Lord were ſent to teſtify againſt? and do not you who live in theſe beaſt<g ref="char:EOLhyphen"/>ly practiſes before mentioned, profeſs your ſelves to be a Church, and profeſſes your ſelves to be Chriſtians, and ſo outwardly to men do appear beautiful; but are the generation that ſlays the righte<g ref="char:EOLhyphen"/>ous blood? So your works being evil, your reward will be according. And every one ſearch with the light which from Chriſt the Lord Jeſus doth come, that with it you may ſee your works, whether you be free from thoſe practiſes before mentioned; who are ſhall have his reward: and who are not, are with the light to be condemned, and his works are for the fire: and in your life time, remember you are all warned, and this is the day of your viſitation, wherein you are viſited, now you have time prize it: to the light in all your conſciences I ſpeak, which is my witneſs which comes from Chriſt, which lightneth every man that comes into the world, that with it you may ſee your ſelves, and your deeds, whether they be wrought in God and he that hates it, his deeds are evil, they are not of God, and this is the condemnation of all that hate it, the Light.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
